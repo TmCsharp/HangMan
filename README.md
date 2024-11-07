@@ -1,4 +1,4 @@
 # HangMan
 MiniConsoleGame
 
-Next updates soon...
+Next updates soon.
