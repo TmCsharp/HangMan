@@ -1,7 +1,6 @@
 ﻿List<string> words = new List<string>() { "word", "hello", "before", "walking", "handsome", "excellent", "congratulations" };
 
 Random random = new Random();
-
 string code = words[random.Next(0, words.Count)];
 
 int maxLive = 7;
