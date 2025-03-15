@@ -244,5 +244,4 @@ static void GameOver(bool gameOver)
                                                                                                           * |     GAME OVER!    | *
                                                                                                           * *-------------------* *
                                                                                                            * * * * * * * * * * * *
-
 */
