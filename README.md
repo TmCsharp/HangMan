@@ -23,3 +23,11 @@ Win by guessing the word before the hangman is fully drawn!
 
 
 🎯 Try it out and have fun!
+
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
