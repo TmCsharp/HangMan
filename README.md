@@ -4,10 +4,13 @@ A classic Hangman word-guessing game built with C# and .NET, featuring console-b
 
 
 🚀 Features
-✔ Interactive ASCII Art – Visual hangman progression.
-✔ Custom Word Lists – Load words from a file or use built-in categories.
-✔ Score Tracking – Wins, losses, and guesses remaining.
-✔ Simple & Clean Code – Easy to understand and extend.
+✔ Interactive ASCII Art – Visual hangman progression
+
+✔ Custom Word Lists – Load words from a file or use built-in categories
+
+✔ Score Tracking – Wins, losses, and guesses remaining
+
+✔ Simple & Clean Code – Easy to understand and extend
 
 
 
