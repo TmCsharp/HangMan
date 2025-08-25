@@ -3,7 +3,7 @@
 A classic Hangman word-guessing game built with C# and .NET, featuring console-based gameplay with ASCII art and customizable word lists.
 
 
-🚀 Features
+🚀 Features #
 
 ✔ Interactive ASCII Art – Visual hangman progression
 
